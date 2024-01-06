@@ -5,6 +5,7 @@ plugins {
 }
 
 android {
+    namespace "com.example.todo"
     compileSdkVersion 33
     buildToolsVersion "33.0.3"
 
